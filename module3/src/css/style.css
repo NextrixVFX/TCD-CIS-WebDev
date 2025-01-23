@@ -6,7 +6,7 @@ html body {
     overflow: hidden;
 }
 
-p, h1, h2, img {
+p, h1, h2, li, img {
     color: white;
 }
 
