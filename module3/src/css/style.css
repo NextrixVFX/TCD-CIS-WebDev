@@ -1,0 +1,37 @@
+html body {
+    font-family: monospace;
+    background-color: #212121;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
+
+p, h1, h2, img {
+    color: white;
+}
+
+a {
+    color: aliceblue;
+}
+
+main, section {
+    margin: 2em;
+}
+
+.center {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: #121212;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align:center;
+}
+
+.text-content {
+    max-width: 60vw;
+}
